@@ -1,2 +1,3 @@
 # hello-world
-new repository
+新しいリポジトリ
+テスト中です。
